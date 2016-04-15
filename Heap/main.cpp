@@ -1,5 +1,6 @@
 #include <iostream>
 
+/* Trabalho de estrutura de dados */
 using namespace std;
 const int MAX = 100;
 
